@@ -10,7 +10,7 @@ body {
 }
 /*  */
 header {
-    padding: 20px;
+    padding: 20px 50px;
     background-color: #2a607c;
     color: #ffffff;
 }
@@ -71,6 +71,7 @@ main {
     width: 100%;
     display: inline-block;
     margin-left: 20px;
+    color:#ffffff
 }
 
 /*Aside*/
@@ -105,55 +106,18 @@ main {
     text-align: center;
 }
 
-/*These can probably be grouped somehow*/
-.search-engine-optimization {
+main article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     background-color: #0072bb;
-    color: #ffffff;
 }
 
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-/* These can probably be grouped somehow */
-.search-engine-optimization img {
-    max-height: 200px;
-}
-/*  */
-.online-reputation-management img {
-    max-height: 200px;
-}
-/*  */
-.social-media-marketing img {
+main article img {
     max-height: 200px;
 }
 
-/*These can probably be grouped somehow*/
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-/*  */
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-/*  */
-.social-media-marketing h2 {
+main article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
