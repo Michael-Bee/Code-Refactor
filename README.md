@@ -5,7 +5,7 @@ Horiseon Code Refactor
 
 Project Description: Horiseon requested website be made accessible using alt tags, optimized for search engines using semantic elements, HTML/CSS be simplified and consolidated, and positioning errors be corrected. 
 
-Table of Contents: Home page with nav links to Search Engine Optimization, Online Reputation Management, and Social Media Marketing sections.
+Table of Contents: Home page with navigation links to Search Engine Optimization, Online Reputation Management, and Social Media Marketing sections.
 
 How to Install and Run: Visit page at https://michael-bee.github.io/Code-Refactor/ or clone from Michael-Bee's repository at https://github.com/Michael-Bee/Code-Refactor 
 
