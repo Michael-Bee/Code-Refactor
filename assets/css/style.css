@@ -7,12 +7,12 @@
 body {
     background-color: #d9dcd6;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #ffffff;
 }
 /* Header */
 header {
     padding: 20px 50px;
     background-color: #2a607c;
-    color: #ffffff;
 }
 
 header h1 {
@@ -75,7 +75,6 @@ main {
     display: inline-block;
     margin-left: 20px;
     margin-right: 20px;
-    color:#ffffff
 }
 
 /* Aside */
@@ -126,6 +125,7 @@ article h2 {
     padding: 30px;
     clear: both;
     text-align: center;
+    color: black;
 }
 .footer h2 {
     font-size: 20px;
